@@ -1,0 +1,13 @@
+<#
+.synopsis
+    Scrip inicial de power-shell
+.description
+Script para sacar por pantalla Hola Mundo
+.example
+
+.notes
+    Auror: Alicia
+    Fecha: 29/09/2025
+    Version: 1.0
+#>
+Write-Output "Hola mundo"
