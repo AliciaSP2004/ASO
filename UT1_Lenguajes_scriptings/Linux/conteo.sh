@@ -11,6 +11,9 @@ if [ -z "$1" ]; then
     exit 1
 fi
 DIRECTORIO="$1"
-
+if [ ! -d "$DIRECTORIO" ]; then
+    echo "Error: '$DIRECTORIO' no es un directorio válido."
+    exit 1
+fi
 CONTEO=$(find "$DIRECTORIO" -type f | wc -l)
 echo "📂 Número de archivos en '$DIRECTORIO': $CONTEO"
