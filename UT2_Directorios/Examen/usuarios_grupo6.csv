@@ -1,0 +1,7 @@
+Nombre,Apellidos,Usuario,Contrasena,OU,Grupos;
+Ana,García,grupo6_ana.garcia,Passw0rd!,OUGrupo6_Usuarios,GGGrupo6_Empleados;
+Luis,Moreno,grupo6_luis.moreno,Passw0rd!,OUGrupo6_Usuarios,GGGrupo6_Empleados;
+Marta,Ruiz,grupo6_marta.ruiz,Passw0rd!,OUGrupo6_Usuarios,GGGrupo6_Empleados;
+Pablo,Ortega,grupo6_pablo.ortega,Passw0rd!,OUGrupo6_Administracion,GGGrupo6_Admins;GGGrupo6_Empleados
+Carla,Díaz,grupo6_carla.diaz,Passw0rd!,OUGrupo6_Administracion,GGGrupo6_Admins;GGGrupo6_Empleados
+Equipo,1,grupo6_pc-equipo1,Passw0rd!,OUGrupo6_Equipos,;

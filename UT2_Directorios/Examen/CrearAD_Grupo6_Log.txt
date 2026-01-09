@@ -1,0 +1,22 @@
+﻿
+2025-12-19 16:22:33 - Módulo ActiveDirectory cargado correctamente
+2025-12-19 16:22:33 - CSV cargado correctamente desde C:\Users\Administrador\Downloads\carpeta1\Carpeta\carpeta\usuarios_grupo6.csv
+2025-12-19 16:22:33 - OU ya existe: OUGrupo6_Usuarios
+2025-12-19 16:22:33 - OU ya existe: OUGrupo6_Equipos
+2025-12-19 16:22:33 - OU ya existe: OUGrupo6_Administracion
+2025-12-19 16:22:33 - Grupo ya existe: GGGrupo6_Admins
+2025-12-19 16:22:33 - Grupo ya existe: GGGrupo6_Empleados
+2025-12-19 16:22:33 - Usuario ya existe: grupo6_ana.garcia
+2025-12-19 16:22:34 - Añadido grupo6_ana.garcia al grupo GGGrupo6_Empleados
+2025-12-19 16:22:34 - Usuario ya existe: grupo6_luis.moreno
+2025-12-19 16:22:34 - Añadido grupo6_luis.moreno al grupo GGGrupo6_Empleados
+2025-12-19 16:22:34 - Usuario ya existe: grupo6_marta.ruiz
+2025-12-19 16:22:34 - Añadido grupo6_marta.ruiz al grupo GGGrupo6_Empleados
+2025-12-19 16:22:34 - Usuario ya existe: grupo6_pablo.ortega
+2025-12-19 16:22:34 - Añadido grupo6_pablo.ortega al grupo GGGrupo6_Admins
+2025-12-19 16:22:34 - Añadido grupo6_pablo.ortega al grupo GGGrupo6_Empleados
+2025-12-19 16:22:34 - Usuario ya existe: grupo6_carla.diaz
+2025-12-19 16:22:34 - Añadido grupo6_carla.diaz al grupo GGGrupo6_Admins
+2025-12-19 16:22:35 - Añadido grupo6_carla.diaz al grupo GGGrupo6_Empleados
+2025-12-19 16:22:36 - Usuario creado: grupo6_pc-equipo1
+2025-12-19 16:22:36 - Script finalizado correctamente
